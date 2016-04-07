@@ -8,5 +8,22 @@ namespace FynBusSystem
 {
     class SpreadSheetRow
     {
+        List<Column> Column;
+        public int ID { get; set; }
+
+        public void LoadColumns()
+        {
+
+        }
+
+        public void CreateBlueprintColumn()
+        {
+
+        }
+
+        public void RemoveColumn()
+        {
+
+        }
     }
 }

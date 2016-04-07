@@ -8,5 +8,17 @@ namespace FynBusSystem
 {
     class DataAccessLayer
     {
+        public void DatabaseConnection()
+        {
+
+        }
+        public void SaveSpreadSheetRow()
+        {
+
+        }
+        public void LoadColumnsFromDatabase()
+        {
+
+        }
     }
 }

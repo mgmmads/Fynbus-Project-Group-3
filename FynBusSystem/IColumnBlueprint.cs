@@ -8,5 +8,7 @@ namespace FynBusSystem
 {
     interface IColumnBlueprint
     {
+        string Name { get; set; }
+        string Type { get; set; }
     }
 }

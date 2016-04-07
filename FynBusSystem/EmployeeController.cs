@@ -8,5 +8,6 @@ namespace FynBusSystem
 {
     class EmployeeController
     {
+        IEmployee currentUser;
     }
 }
