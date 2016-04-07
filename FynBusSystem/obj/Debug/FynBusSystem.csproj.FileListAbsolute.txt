@@ -1,0 +1,14 @@
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\bin\Debug\FynBusSystem.exe.config
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\bin\Debug\FynBusSystem.exe
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\bin\Debug\FynBusSystem.pdb
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem.csprojResolveAssemblyReference.cache
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\MainWindow.g.cs
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\App.g.cs
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem_MarkupCompile.cache
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem_MarkupCompile.lref
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\MainWindow.baml
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem.g.resources
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem.Properties.Resources.resources
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem.csproj.GenerateResource.Cache
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem.exe
+C:\KINGA\Studies\2016\FynBus\FynBusSystem\FynBusSystem\obj\Debug\FynBusSystem.pdb
